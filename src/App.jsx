@@ -328,7 +328,22 @@ export default function App() {
     >
       Invia richiesta
     </button>
+<section className="mx-auto max-w-5xl px-6 py-20 text-center">
+  <h2 className="text-3xl font-semibold text-white">
+    Finger Lime Italia per Chef e Ristoranti
+  </h2>
 
+  <p className="mt-6 text-neutral-300 leading-relaxed">
+    Il finger lime, noto anche come caviale di agrumi, è un ingrediente raro e
+    pregiato utilizzato nella cucina gourmet. Le sue perle agrumate esplodono al
+    palato offrendo un’esperienza unica.
+  </p>
+
+  <p className="mt-4 text-neutral-300 leading-relaxed">
+    Boalà distribuisce finger lime in Italia per chef, ristoranti e cocktail bar,
+    garantendo qualità premium e un prodotto esclusivo.
+  </p>
+</section>
     <a
       href="https://wa.me/393428446995"
       target="_blank"
